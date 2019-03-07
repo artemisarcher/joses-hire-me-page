@@ -1,0 +1,68 @@
+#colpur {
+    color:purple;
+    background-color:mediumvioletred;
+}
+#colblu {
+    color:powderblue;
+    background-color:darkblue;
+}
+#colrd {
+    color:firebrick;
+    background-color:red;
+}
+body {
+    text-align: center;
+    background-color:seagreen;
+}
+div {
+    display: inline-block;
+}
+#grd {
+       font-family: 'Chakra Petch', sans-serif;
+       color:mediumspringgreen;
+}
+#v {
+    font-family: 'Chakra Petch', sans-serif;
+    font-family: 'Charmonman', cursive;
+    color:gold;
+}
+p {
+    color:darkmagenta;
+}
+#bnd {
+    font-family: 'Shadows Into Light', cursive;
+    color:lightsteelblue;
+}
+#idk {
+    font-family: 'Shadows Into Light', cursive;
+font-family: 'Text Me One', sans-serif;
+color:chartreuse;
+}
+
+.rotate270 {
+    -webkit-transform: rotate(270deg);
+    -moz-transform: rotate(270deg);
+    -o-transform: rotate(270deg);
+    -ms-transform: rotate(270deg);
+    transform: rotate(270deg);
+}
+
+#nm {
+     font-family: 'Chakra Petch', sans-serif;
+    font-family: 'Charmonman', cursive;
+    font-family: 'Fahkwang', sans-serif;
+    color:mediumblue;
+}
+#vg {
+    color:royalblue;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+img {
+    width:400px;
+}
+li {
+    color:cadetblue; 
+}
+#im {
+     
+}
