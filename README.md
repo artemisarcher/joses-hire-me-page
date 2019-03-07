@@ -1,1 +1,0 @@
-# joses-hire-me-page
